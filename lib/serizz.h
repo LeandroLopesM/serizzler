@@ -4,7 +4,7 @@
 |===========|
 |           |
 |           |
-|     D     | -> All the rest reserved for data storage
+|     D     | -> All the rest reserved for data storag
 |           |
 |===========|
 */
